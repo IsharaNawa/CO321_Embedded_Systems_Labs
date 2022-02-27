@@ -1,4 +1,4 @@
-# EmbeddedSystemsLabs-CO321-
+# EmbeddedSystemsLabs-CO321
 How to use :
 
   1. Go to each lab exercise folder.
