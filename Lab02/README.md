@@ -1,1 +1,1 @@
-![](Exercise.png)
+![](Exercises.png)
