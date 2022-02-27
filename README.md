@@ -1,2 +1,8 @@
 # EmbeddedSystemsLabs-CO321-
-This is the labs which was done in embedded systems course in the 5th semester.
+How to use :
+
+  1. Go to each lab exercise folder.
+  2. Read the exercises list in the README section.
+  3. All the codes and circuits of the corresponding task are in the folder.
+
+Thanks!! This is for education purpose only!
